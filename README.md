@@ -1,2 +1,2 @@
 # time_series_prediction
-with CNN and RNN
+with MLP and RNN
